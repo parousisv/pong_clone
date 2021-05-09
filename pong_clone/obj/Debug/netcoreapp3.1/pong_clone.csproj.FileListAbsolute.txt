@@ -1,0 +1,4 @@
+C:\Workspaces\c_sharp_workspaces\pong_clone\pong_clone\obj\Debug\netcoreapp3.1\pong_clone.csprojAssemblyReference.cache
+C:\Workspaces\c_sharp_workspaces\pong_clone\pong_clone\obj\Debug\netcoreapp3.1\pong_clone.AssemblyInfoInputs.cache
+C:\Workspaces\c_sharp_workspaces\pong_clone\pong_clone\obj\Debug\netcoreapp3.1\pong_clone.AssemblyInfo.cs
+C:\Workspaces\c_sharp_workspaces\pong_clone\pong_clone\obj\Debug\netcoreapp3.1\pong_clone.csproj.CoreCompileInputs.cache
