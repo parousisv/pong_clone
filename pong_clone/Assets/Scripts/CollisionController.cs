@@ -32,8 +32,14 @@ public class CollisionController : MonoBehaviour
         if (collision.gameObject.name == "RacketPlayer1" || collision.gameObject.name == "RacketPlayer2")
             this.BounceFromRacket(collision);
         else if (collision.gameObject.name == "WallLeft")
+        {
             this.scoreController.GoalPlayer2();
+            StartCoroutine(this.ballMovement.StartBall(true));
+        }
         else if (collision.gameObject.name == "WallRight")
+        {
             this.scoreController.GoalPlayer1();
+            StartCoroutine(this.ballMovement.StartBall(false));
+        }
     }
 }
